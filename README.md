@@ -12,7 +12,7 @@ well, apparently me. and I didn't want to manually tag thousands of media files 
 
 TODO but:
 
-```
+```python
 poetry install
 # ... extract your archive into this folder ..
 poetry run main.py [json files to process -- they're found at ./archive-name/content]
