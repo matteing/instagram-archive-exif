@@ -4,7 +4,7 @@ a quick and dirty Python script that adds back EXIF tags (created/modified time,
 
 ## why?
 
-the gods at Meta(tm)(r) decided to make life difficult for anyone _who dares_ take their rightfully-owned data anywhere else. god forbid you'd want to move things into a backup service for long-term storage? can't imagine why someone would do such a thing! 
+the gods at Meta™®© decided to make life difficult for anyone _who dares_ take their rightfully-owned data anywhere else. god forbid you'd want to move things into a backup service for long-term storage? can't imagine why someone would do such a thing! 
 
 well, apparently me. and I didn't want to manually tag thousands of media files with their date so my gallery app works. so I went the extra mile: all tags returned by instagram in separate JSON files are merge-able using this script. 
 
