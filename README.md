@@ -15,7 +15,7 @@ TODO but:
 ```bash
 poetry install
 # ... extract your archive into this folder ..
-poetry run main.py [json files to process -- they're found at ./archive-name/content]
+poetry run main.py ./archive-name/content/stories.json
 # follow the prompts and see the magic at /result once it's done
 ```
 
